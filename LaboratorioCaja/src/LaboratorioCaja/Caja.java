@@ -11,6 +11,8 @@ public class Caja {
 		this.alto=alto;
 		this.ancho=ancho;
 		this.profundo=profundo;
+		System.out.println("lo he conseguido");
+					
 	}
 }
 
